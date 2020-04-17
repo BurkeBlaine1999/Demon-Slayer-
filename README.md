@@ -14,7 +14,7 @@ A top down 2d shooter game , created using Unity for my third year mobile applic
   
 2. Import into a unity project either by dragging it into it or importing it!
 
-### Prerequisites
+## Prerequisites
 
 [Unity 2019-3](https://unity.com/releases/2019-3)
 
