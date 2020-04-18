@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 * [Geeks for geeks](https://www.geeksforgeeks.org/) - Helped with debugging 
 * [Stack Overflow](https://stackoverflow.com/) - Helped with debugging 
-* [Brackys](https://www.youtube.com/user/Brackeys) - Helped with several aspects through his tutorials! 
+* [Brackeys](https://www.youtube.com/user/Brackeys) - Helped with several aspects through his tutorials! 
 * [SoundImage.org](http://soundimage.org/) - Provided me with my sound effects and music! 
 * [Photoshop](https://www.adobe.com/ie/products/photoshop.html?gclid=CjwKCAjwp-X0BRAFEiwAheRui6U-rSNsoT0Qa_8NAnMg2erkWKHip_U5gsIisFCWJYp2q9vQSp6GjxoCUdoQAvD_BwE&sdid=88X75SKS&mv=search&ef_id=CjwKCAjwp-X0BRAFEiwAheRui6U-rSNsoT0Qa_8NAnMg2erkWKHip_U5gsIisFCWJYp2q9vQSp6GjxoCUdoQAvD_BwE:G:s&s_kwcid=AL!3085!3!394411979659!b!!g!!%2Bphotoshop) - Used for making my sprites!
 
